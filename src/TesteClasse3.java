@@ -4,7 +4,7 @@ public class TesteClasse3 {
    
         Classe3 c3 = new Classe3();
         c3.nome= "Thiago Augusto Souza Santos";
-        c3.cpf = "145.856.478-98";
+        c3.cpf = "145.856.478-27";
         c3.RG = "13.258.978";
         
         System.out.println("Nome: " + c3.nome);
